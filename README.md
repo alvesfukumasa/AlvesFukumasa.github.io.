@@ -16,6 +16,9 @@ Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Sabe
 Nosso objetivo é trazer alguns conceitos básicos, caso alguém tenha interesse de conhecer mais a plataforma, deixamos aqui alguns links relevantes:
 
 Curso gratuito sobre Github: https://try.github.io/ 
+
 Documentação https://help.github.com/articles/git-... 
+
 Livro https://git-scm.com/book/pt-br/v2
+
 Referências/dicionário https://git-scm.com/docs
