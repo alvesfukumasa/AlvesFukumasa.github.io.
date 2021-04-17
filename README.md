@@ -4,7 +4,7 @@ Este trabalho foi elaborado pelas discentes Alícia Fukumasa (19207881) e Jéssi
 
 # O que é Github? 
 
-GitHub é uma plataforma na nuvem de compartilhamento de códigos com controle de versão e colaboração. Através da sua interface amigável, é possível rastrear qualquer alteração realizada em um código, além de simplificar o processo de compartilhamento de projetos entre equipes. Algumas vantagens que o Github traz:
+GitHub é uma plataforma de compartilhamento de códigos com controle de versão e colaboração que fica na nuvem. Através da sua interface amigável, é possível rastrear qualquer alteração realizada em um código, além de simplificar o processo de compartilhamento de projetos. Algumas vantagens que o Github traz:
 
 1) Funciona na nuvem - Tendo internet, pode ser acessado de qualquer lugar do mundo;
 2) Controle de versão - Armazena todo histórico de alterações realizadas;
@@ -12,3 +12,10 @@ GitHub é uma plataforma na nuvem de compartilhamento de códigos com controle d
 4) Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python];
 5) Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
 Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
+
+Nosso objetivo é trazer alguns conceitos básicos, caso alguém tenha interesse de conhecer mais a plataforma, deixamos aqui alguns links relevantes:
+
+Curso gratuito sobre Github: https://try.github.io/ 
+Documentação https://help.github.com/articles/git-... 
+Livro https://git-scm.com/book/pt-br/v2
+Referências/dicionário https://git-scm.com/docs
