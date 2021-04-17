@@ -13,7 +13,7 @@ GitHub é uma plataforma de compartilhamento de códigos com controle de versão
 5) Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
 Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
 
-Nosso objetivo é trazer alguns conceitos básicos, caso alguém tenha interesse de conhecer mais a plataforma, deixamos aqui alguns links relevantes:
+Nosso objetivo é trazer alguns conceitos básicos, para conhecer mais a plataforma, acesse:
 
 Curso gratuito sobre Github: https://try.github.io/ 
 
