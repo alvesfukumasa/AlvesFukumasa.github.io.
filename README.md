@@ -17,8 +17,8 @@ Nosso objetivo é trazer alguns conceitos básicos, caso alguém tenha interesse
 
 Curso gratuito sobre Github: https://try.github.io/ 
 
-Documentação https://help.github.com/articles/git-... 
+Documentação:https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources
 
-Livro https://git-scm.com/book/pt-br/v2
+Livro: https://git-scm.com/book/pt-br/v2
 
-Referências/dicionário https://git-scm.com/docs
+Referências/dicionário: https://git-scm.com/docs
