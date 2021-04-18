@@ -77,7 +77,7 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 
 (https://www.youtube.com/watch?v=UbJLOn1PAKw)
 
-P.S.: Para gravar a tela do computador, usados o Screencastify.
+P.S.: Para gravar a tela do computador, usamos o Screencastify.
 
 
 
