@@ -39,17 +39,17 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
 https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
 
 ## 1.2 README.md
-É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto.
 
-Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte o texto para um HTML válido. Mais informações em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown
+É recomendável incluir o arquivo README.md na criação do repositório. Ali deve conter a descrição detalhada sobre o projeto.
 
+Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido. Mais informações sobre edição em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown
 
-
+https://user-images.githubusercontent.com/82068739/115131222-c60fc880-9fcc-11eb-9ffb-c5e0d74fc1b1.mp4
 
 ## 1.3 Deletando um repositório 
 https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
 
-
+# Branch
 
 
 
