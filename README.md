@@ -1,4 +1,3 @@
-![GitHub-Logo](https://user-images.githubusercontent.com/82068739/115130169-9b6d4200-9fc3-11eb-8148-8eee8967cee6.png)
 # `Introdução`
 
 Olá! Este trabalho foi elaborado pelas discentes Alícia Fukumasa (19207881) e Jéssica Alves (15200700) para a disciplina EPS7001-Informática para Engenharia de Produção, turma 02213 (Semestre 2020.2) da Universidade Federal de Santa Catarina.
