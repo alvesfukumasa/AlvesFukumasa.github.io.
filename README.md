@@ -54,7 +54,24 @@ https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-
 Branches são separadores de código, seria como ramificar o código em categorias ou pastas. *"Ramifique cedo, ramifique sempre".*
 Ao criar um repositório, ele irá vir automaticamente com um branch chamado de *"main"*.
 
+## 2.1 Criando um branch
+
+https://user-images.githubusercontent.com/82068739/115144831-2b8fa380-a025-11eb-9284-c3f9b19d664d.mp4
+
+## 2.2 Deletando um branch
+
+https://user-images.githubusercontent.com/82068739/115145259-08fe8a00-a027-11eb-8744-91fc16838e60.mp4
+
 # `3. Commits`
+
+Commits são alterações no código. 
+Sempre que você quiser salvar as alterações realizadas no repositório, é necessário commitar estas alterações. 
+indica-se fazer uma breve descrição da alteração realizada. 
+
+
+
+
+
 
 # `4. Pull Request`
 
