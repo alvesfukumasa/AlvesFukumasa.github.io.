@@ -101,6 +101,7 @@ https://user-images.githubusercontent.com/82068739/115154246-3ad81680-a050-11eb-
 
 # `6. Como criar um site no Github`
 
+O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
 Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
 
 
