@@ -88,7 +88,7 @@ https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-
 O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
 
 
-![pullrequest](https://github.com/alvesfukumasa/AlvesFukumasa.github.io./blob/main/alvesfukumasa%20(Al%C3%ADcia%20%26%20J%C3%A9ssica%20).gif)
+([![](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "")
 
 
 # `5. Merge`
