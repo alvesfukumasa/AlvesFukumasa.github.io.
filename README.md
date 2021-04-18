@@ -9,7 +9,7 @@ GitHub é uma plataforma de compartilhamento de códigos com controle de versão
 1) Funciona na nuvem - Tendo internet, pode ser acessado de qualquer lugar do mundo;
 2) Controle de versão - Armazena todo histórico de alterações realizadas;
 3) Trabalho em equipe - Acesso simultâneo;
-4) Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python];
+4) Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
 5) Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
 Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
 
@@ -22,6 +22,12 @@ Documentação:https://docs.github.com/en/github/getting-started-with-github/git
 Livro: https://git-scm.com/book/pt-br/v2
 
 Referências/dicionário: https://git-scm.com/docs
+
+# 0 Crie uma conta
+
+Acesse: https://github.com/
+Infomre o seu melhor email, crie uma senha e username. 
+
 
 ## Criar um repositório +  Criar um Branch + Fazer Commits ##
 
