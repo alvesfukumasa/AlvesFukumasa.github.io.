@@ -4,6 +4,10 @@
 Olá! Este trabalho foi elaborado pelas discentes Alícia Fukumasa (19207881) e Jéssica Alves (15200700) para a disciplina EPS7001-Informática para Engenharia de Produção, turma 02213 (Semestre 2020.2) da Universidade Federal de Santa Catarina.
 Por questões didáticas, iremos mostrar questões básicas do site e não do terminal Git. 
 
+# `Git ou GitHub?`
+
+Git e GitHub não são a mesma coisa. Git é o sistema de gerenciamento de versão gratuito e de código aberto criado por Linus Torvald, mesmo criador do Linux, em 2005. GitHub é a empresa que desenvolve soluções baseadas no Git, como a plataforma GitHub.com, que une o gerenciamento e hospedagem de código-fonte a funções de redes sociais, como feed, comunidades, fóruns, etc.(1)
+
 # `O que é Github?`
 
 GitHub é uma plataforma de compartilhamento de códigos com controle de versão e colaboração que fica na nuvem. Através da sua interface amigável, é possível rastrear qualquer alteração realizada em um código, além de simplificar o processo de compartilhamento de projetos. Algumas vantagens que o Github traz:
@@ -100,5 +104,5 @@ https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-
 
 P.S.: Para gravar a tela do computador, usamos o Screencastify.
 
-
+(1) [https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/]
 
