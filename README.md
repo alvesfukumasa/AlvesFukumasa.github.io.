@@ -91,7 +91,11 @@ https://user-images.githubusercontent.com/82068739/115153596-3a8a4c00-a04d-11eb-
 
 # `5. Merge`
 
-Com essa função é possível  mesclar as alterações feitas no branches ao projeto principal. 
+Com essa função é possível introduzir branches ao projeto principal. 
+
+https://user-images.githubusercontent.com/82068739/115154246-3ad81680-a050-11eb-9692-713642e719b3.mp4
+
+
 
 # `6. Como criar um site no Github`
 
