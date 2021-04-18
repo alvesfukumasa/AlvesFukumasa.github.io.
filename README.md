@@ -103,8 +103,8 @@ O Github permite hospedar site estáticos. É possível criar um site a partir d
 Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
 
 
-https://user-images.githubusercontent.com/82068739/115154561-d918ac00-a051-11eb-9977-07cd7d9a9353.mp4
-![gif](AlvesFukumasa.github.io./C-pia-do-trabalho_README.md at main · alvesfukumasa_C-pia-do-trabalho.gif)
+![gif](https://github.com/alvesfukumasa/AlvesFukumasa.github.io./blob/main/C-pia-do-trabalho_README.md%20at%20main%20%C2%B7%20alvesfukumasa_C-pia-do-trabalho.gif)
+
 
 
 
