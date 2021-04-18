@@ -83,16 +83,23 @@ https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-
 
 
 # `4. Pull Request`
-[Alícia]
+
+O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
+
+https://user-images.githubusercontent.com/82068739/115153596-3a8a4c00-a04d-11eb-9c1b-81b0fd3c4e7e.mp4
+
 
 # `5. Merge`
 
-[Alícia]
+Com essa função é possível  mesclar as alterações feitas no branches ao projeto principal. 
 
 # `6. Como criar um site no Github`
 
+https://github.com/
 
-[Alícia]
+
+
+
 
 # Vídeos interessantes
 
