@@ -104,6 +104,7 @@ Para criar uma página é necessário apenas entra na página do Github (https:/
 
 
 https://user-images.githubusercontent.com/82068739/115154561-d918ac00-a051-11eb-9977-07cd7d9a9353.mp4
+![gif](AlvesFukumasa.github.io./C-pia-do-trabalho_README.md at main · alvesfukumasa_C-pia-do-trabalho.gif)
 
 
 
