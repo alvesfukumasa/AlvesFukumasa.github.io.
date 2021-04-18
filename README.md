@@ -12,7 +12,7 @@ Por questões didáticas, iremos mostrar questões básicas do site e não do te
 Git e GitHub não são a mesma coisa. Git é o sistema de gerenciamento de versão gratuito e de código aberto criado por Linus Torvald, mesmo criador do Linux, em 2005. GitHub é a empresa que desenvolve soluções baseadas no Git, como a plataforma GitHub.com, que une o gerenciamento e hospedagem de código-fonte a funções de redes sociais, como feed, comunidades, fóruns, etc.(1)
 
 
-## `O que é Github?`
+# `O que é Github?`
 
 GitHub é uma plataforma de compartilhamento de códigos com controle de versão e colaboração que fica na nuvem. Através da sua interface amigável, é possível rastrear qualquer alteração realizada em um código, além de simplificar o processo de compartilhamento de projetos. Algumas vantagens que o Github traz:
 
@@ -35,11 +35,11 @@ Informe o seu melhor email, crie uma senha e username.
 Um repositório serve para organizar um projeto. Ali encontram-se todas as informações relavantes ao mesmo, como imagens, vídeos e planilhas, por exemplo. 
  
  
-# 1.1 Criando um repositório 
+## 1.1 Criando um repositório 
 https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
 
 
-# 1.2 README.md
+## 1.2 README.md
 
 É recomendável incluir o arquivo README.md na criação do repositório. Ali deve conter a descrição detalhada sobre o projeto.
 
@@ -48,7 +48,7 @@ Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte
 https://user-images.githubusercontent.com/82068739/115131222-c60fc880-9fcc-11eb-9ffb-c5e0d74fc1b1.mp4
 
 
-# 1.3 Deletando um repositório 
+## 1.3 Deletando um repositório 
 https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
 
 
@@ -58,12 +58,12 @@ Branches são separadores de código, seria como ramificar o código em categori
 Ao criar um repositório, ele irá vir automaticamente com um branch chamado de *"main"*.
 
 
-# 2.1 Criando um branch
+## 2.1 Criando um branch
 
 https://user-images.githubusercontent.com/82068739/115144831-2b8fa380-a025-11eb-9284-c3f9b19d664d.mp4
 
 
-# 2.2 Deletando um branch
+## 2.2 Deletando um branch
 
 https://user-images.githubusercontent.com/82068739/115145259-08fe8a00-a027-11eb-8744-91fc16838e60.mp4
 
@@ -76,7 +76,7 @@ indica-se fazer uma breve descrição da alteração realizada.
 https://user-images.githubusercontent.com/82068739/115145623-dbb2db80-a028-11eb-9486-c40ccd1c6bbb.mp4
 
 
-# 3.1 Histórico de commits
+## 3.1 Histórico de commits
 
 É possível analisar todo os histórico de alterações, comentá-las e sugerir mudanças.
 
@@ -108,7 +108,7 @@ https://user-images.githubusercontent.com/82068739/115154561-d918ac00-a051-11eb-
 
 
 
-# Vídeos interessantes
+# Interessantes
 
 (https://www.youtube.com/watch?v=ZDo_f3ZibFA)
 
