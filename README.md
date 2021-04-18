@@ -64,10 +64,10 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 
 # Vídeos interessantes
 
-https://www.youtube.com/watch?v=ZDo_f3ZibFA
-https://www.youtube.com/watch?v=UbJLOn1PAKw
+(https://www.youtube.com/watch?v=ZDo_f3ZibFA)
+(https://www.youtube.com/watch?v=UbJLOn1PAKw)
 
-Para gravar a tela do computador, usados o Screencastify.
+P.S.: Para gravar a tela do computador, usados o Screencastify.
 
 
 
