@@ -1,5 +1,4 @@
 
-https://user-images.githubusercontent.com/82068739/115154510-90f98980-a051-11eb-9120-35a0a0e66f61.mp4
 
 ![GitHub-Logo](https://user-images.githubusercontent.com/82068739/115130169-9b6d4200-9fc3-11eb-8148-8eee8967cee6.png)
 # `Introdução`
