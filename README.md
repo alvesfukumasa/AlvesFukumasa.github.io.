@@ -36,7 +36,7 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
  
  
 ## 1.1 Criando um repositório 
-https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
+<https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4>
 
 
 ## 1.2 README.md
