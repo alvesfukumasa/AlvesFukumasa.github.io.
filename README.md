@@ -76,9 +76,7 @@ https://user-images.githubusercontent.com/82068739/115145623-dbb2db80-a028-11eb-
 https://user-images.githubusercontent.com/82068739/115145844-11a48f80-a02a-11eb-994a-ed60a80f904d.mp4
 
 # `4. Pull Request`
-
-O pull request é o principal objetivo da colaboração no GitHub. É um meio de fazer um pedido ao dono do repositório para que esse atualize o código dele com a sua contribuição. A partir do commit, é possível abrir um pull request para iniciar uma discissão, antes do códigos ser incorporado ao repositório.
-
+[Alícia]
 
 # `5. Merge`
 
