@@ -8,11 +8,11 @@ Por questões didáticas, iremos mostrar questões básicas do site e não do te
 
 GitHub é uma plataforma de compartilhamento de códigos com controle de versão e colaboração que fica na nuvem. Através da sua interface amigável, é possível rastrear qualquer alteração realizada em um código, além de simplificar o processo de compartilhamento de projetos. Algumas vantagens que o Github traz:
 
-1) Funciona na nuvem - Tendo internet, pode ser acessado de qualquer lugar do mundo;
-2) Controle de versão - Armazena todo histórico de alterações realizadas;
-3) Trabalho em equipe - Acesso simultâneo;
-4) Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
-5) Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
+1. Funciona na nuvem - Tendo internet, pode ser acessado de qualquer lugar do mundo;
+2. Controle de versão - Armazena todo histórico de alterações realizadas;
+3. Trabalho em equipe - Acesso simultâneo;
+4. Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
+5. Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
 Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
 
 Nosso objetivo é trazer alguns conceitos básicos, para conhecer mais a plataforma, acesse:
@@ -40,6 +40,11 @@ https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-
 
 ## 1.2 README.md
 É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto.
+
+Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte o texto para um HTML válido. Mais informações em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown
+
+
+
 
 ## 1.3 Deletando um repositório 
 https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
