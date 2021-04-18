@@ -73,7 +73,10 @@ https://user-images.githubusercontent.com/82068739/115145623-dbb2db80-a028-11eb-
 ## 3.1 Histórico de commits
 
 É possível analisar todo os histórico de alterações, comentá-las e sugerir mudanças.
-https://user-images.githubusercontent.com/82068739/115145844-11a48f80-a02a-11eb-994a-ed60a80f904d.mp4
+
+https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-8162-0c95daf80d81.mp4
+
+
 
 # `4. Pull Request`
 [Alícia]
