@@ -33,12 +33,15 @@ Informe o seu melhor email, crie uma senha e username.
 # 1. Repositório
 
 Um repositório serve para organizar um projeto. Ali encontram-se todas as informações relavantes ao mesmo, como imagens, vídeos e planilhas, por exemplo. 
-É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto. 
+ 
 
-# 1.1 Criando um repositório 
+## 1.1 Criando um repositório 
 https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
 
-# 1.2 Deletando um repositório 
+## 1.2 README.md
+É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto.
+
+## 1.3 Deletando um repositório 
 https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
 
 
