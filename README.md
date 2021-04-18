@@ -51,9 +51,23 @@ https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-
 
 # `2. Branch`
 
-Branches são separadores de código, seria como ramificar o código em categorias ou pastas >>*"Ramifique cedo, ramifique sempre".*<<
+Branches são separadores de código, seria como ramificar o código em categorias ou pastas. *"Ramifique cedo, ramifique sempre".*
 Ao criar um repositório, ele irá vir automaticamente com um branch chamado de *"main"*.
 
+# `3. Commits`
+
+# `4. Pull Request`
+
+# `5. Merge`
+
+# `6. Como criar um site no Github`
+
+# Vídeos interessantes
+
+https://www.youtube.com/watch?v=ZDo_f3ZibFA
+https://www.youtube.com/watch?v=UbJLOn1PAKw
+
+Para gravar a tela do computador, usados o Screencastify.
 
 
 
