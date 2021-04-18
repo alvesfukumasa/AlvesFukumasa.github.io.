@@ -29,6 +29,16 @@ Referências/dicionário: https://git-scm.com/docs
 Acesse: https://github.com/
 Informe o seu melhor email, crie uma senha e username. 
 
+# 1. Repositório
+
+Um repositório serve para organizar um projeto. Ali encontram-se todas as informações relavantes ao mesmo, como imagens, vídeos e planilhas, por exemplo. 
+É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto. 
+
+# 1.1 Criando um repositório 
+https://user-images.githubusercontent.com/82068739/115130593-49c6b680-9fc7-11eb-828f-049e59d733b3.mp4
+
+
+
 
 ## Criar um repositório +  Criar um Branch + Fazer Commits ##
 
