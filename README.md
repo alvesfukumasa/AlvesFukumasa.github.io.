@@ -2,6 +2,7 @@
 # Introdução
 
 Este trabalho foi elaborado pelas discentes Alícia Fukumasa (19207881) e Jéssica Alves (15200700) para a disciplina EPS7001 Informática para Engenharia de Produção, turma 02213 da Universidade Federal de Santa Catarina.
+Por questões didáticas, iremos mostrar questões básicas do site e não do terminal Git. 
 
 # O que é Github? 
 
@@ -35,10 +36,15 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
 É comum incluir arquivo README que contenha uma descrição detalhada sobre o projeto. 
 
 # 1.1 Criando um repositório 
-https://user-images.githubusercontent.com/82068739/115130593-49c6b680-9fc7-11eb-828f-049e59d733b3.mp4
+https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
+
+# 1.2 Deletando um repositório 
+https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
 
 
 
 
-## Criar um repositório +  Criar um Branch + Fazer Commits ##
+
+
+ Criar um Branch + Fazer Commits ##
 
