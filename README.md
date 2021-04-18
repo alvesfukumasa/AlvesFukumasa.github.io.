@@ -58,9 +58,16 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 
 # `4. Pull Request`
 
+[Alícia]
+
 # `5. Merge`
 
+[Alícia]
+
 # `6. Como criar um site no Github`
+
+
+[Alícia]
 
 # Vídeos interessantes
 
@@ -73,6 +80,4 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 P.S.: Para gravar a tela do computador, usados o Screencastify.
 
 
-
- Criar um Branch + Fazer Commits ##
 
