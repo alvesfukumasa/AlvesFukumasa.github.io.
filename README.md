@@ -1,12 +1,12 @@
 
 
 ![GitHub-Logo](https://user-images.githubusercontent.com/82068739/115130169-9b6d4200-9fc3-11eb-8148-8eee8967cee6.png)
-## `Introdução`
+# Introdução 
 
 Olá! Este trabalho foi elaborado pelas discentes Alícia Fukumasa (19207881) e Jéssica Alves (15200700) para a disciplina EPS7001-Informática para Engenharia de Produção, turma 02213 (Semestre 2020.2) da Universidade Federal de Santa Catarina.
 Por questões didáticas, iremos mostrar questões básicas do site e não do terminal Git. 
 
-## `Git ou GitHub?`
+# Git ou GitHub?
 
 Git e GitHub não são a mesma coisa. Git é o sistema de gerenciamento de versão gratuito e de código aberto criado por Linus Torvald, mesmo criador do Linux, em 2005. GitHub é a empresa que desenvolve soluções baseadas no Git, como a plataforma GitHub.com, que une o gerenciamento e hospedagem de código-fonte a funções de redes sociais, como feed, comunidades, fóruns, etc.(1)
 
