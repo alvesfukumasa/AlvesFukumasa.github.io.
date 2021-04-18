@@ -68,14 +68,17 @@ Commits são alterações no código.
 Sempre que você quiser salvar as alterações realizadas no repositório, é necessário commitar estas alterações. 
 indica-se fazer uma breve descrição da alteração realizada. 
 
+https://user-images.githubusercontent.com/82068739/115145623-dbb2db80-a028-11eb-9486-c40ccd1c6bbb.mp4
 
+## 3.1 Histórico de commits
 
-
-
+É possível analisar todo os histórico de alterações, comentá-las e sugerir mudanças.
+https://user-images.githubusercontent.com/82068739/115145844-11a48f80-a02a-11eb-994a-ed60a80f904d.mp4
 
 # `4. Pull Request`
 
-[Alícia]
+O pull request é o principal objetivo da colaboração no GitHub. É um meio de fazer um pedido ao dono do repositório para que esse atualize o código dele com a sua contribuição. A partir do commit, é possível abrir um pull request para iniciar uma discissão, antes do códigos ser incorporado ao repositório.
+
 
 # `5. Merge`
 
