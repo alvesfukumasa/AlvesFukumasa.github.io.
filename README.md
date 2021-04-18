@@ -95,16 +95,12 @@ O Pull Request é um pedido de melhoria para ser incorporado no repositório pri
 
 Com essa função é possível introduzir branches ao projeto principal. 
 
-https://user-images.githubusercontent.com/82068739/115154246-3ad81680-a050-11eb-9692-713642e719b3.mp4
 
 
 # `6. Como criar um site no Github`
 
 O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
 Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
-
-
-![gif](https://github.com/alvesfukumasa/AlvesFukumasa.github.io./blob/main/C-pia-do-trabalho_README.md%20at%20main%20%C2%B7%20alvesfukumasa_C-pia-do-trabalho.gif)
 
 
 
