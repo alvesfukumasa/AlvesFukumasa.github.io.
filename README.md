@@ -88,19 +88,24 @@ https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-
 O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
 
 
-([![](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "")
+[![Pull Request](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Pull Request")
 
 
 # `5. Merge`
 
 Com essa função é possível introduzir branches ao projeto principal. 
 
+[![Merge](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Merge")
+
 
 
 # `6. Como criar um site no Github`
 
 O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
-Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
+
+
+[![Criando Pages](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando Pages")
+
 
 
 
