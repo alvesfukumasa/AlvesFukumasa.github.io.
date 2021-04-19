@@ -37,8 +37,8 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
  
 ## 1.1 Criando um repositório 
 
-[![Criando um repositório](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando um repositório")
 
+[![](http://img.youtube.com/vi/Cd3Qd1GWCKs/0.jpg)](http://www.youtube.com/watch?v=Cd3Qd1GWCKs "Criando um repositorio")
 
 ## 1.2 README.md
 
@@ -46,12 +46,12 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
 
 Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido.
 
-[![Read](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Read")
 
+[![](http://img.youtube.com/vi/RglG0rCpyMQ/0.jpg)](http://www.youtube.com/watch?v=RglG0rCpyMQ "Readme")
 
 ## 1.3 Deletando um repositório 
-[![Deletando](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Deletando")
 
+[![](http://img.youtube.com/vi/nt4_QQPV9k4/0.jpg)](http://www.youtube.com/watch?v=nt4_QQPV9k4 "Deletando um repositorio")
 
 # `2. Branch`
 
@@ -61,12 +61,12 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 
 ## 2.1 Criando um branch
 
-[![Criando um Branch](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando um Branch")
-
+[![](http://img.youtube.com/vi/nCLTJ0lILvc/0.jpg)](http://www.youtube.com/watch?v=nCLTJ0lILvc "Criando um branch")
 
 ## 2.2 Deletando um branch
 
-[![Deletando um Branch](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Deletando um Branch")
+
+[![](http://img.youtube.com/vi/niGK2N00Pa8/0.jpg)](http://www.youtube.com/watch?v=niGK2N00Pa8 "Deletando um branch")
 
 # `3. Commits`
 
@@ -74,14 +74,15 @@ Commits são alterações no código.
 Sempre que você quiser salvar as alterações realizadas no repositório, é necessário commitar estas alterações. 
 indica-se fazer uma breve descrição da alteração realizada. 
 
-[![Commits](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Commits")
 
+[![](http://img.youtube.com/vi/cGPwtN88TAY/0.jpg)](http://www.youtube.com/watch?v=cGPwtN88TAY "Commits")
 
 ## 3.1 Histórico de commits
 
 É possível analisar todo os histórico de alterações, comentá-las e sugerir mudanças.
-[![Historico Commits](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Historico Commits")
 
+
+[![](http://img.youtube.com/vi/ErwDPxXlCT4/0.jpg)](http://www.youtube.com/watch?v=ErwDPxXlCT4 "Historico de commits")
 
 # `4. Pull Request`
 
