@@ -41,7 +41,7 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
 
 É recomendável incluir o arquivo README.md na criação do repositório. Ali deve conter a descrição detalhada sobre o projeto.
 
-Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido. Mais informações sobre edição em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown 
+Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido.
 
 [![Read](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Read")
 
