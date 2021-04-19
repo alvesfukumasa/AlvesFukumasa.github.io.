@@ -33,7 +33,8 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
  
  
 ## 1.1 Criando um repositório 
-https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-904b-e56704fd4395.mp4
+
+[![Criando um repositório](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando um repositório")
 
 
 ## 1.2 README.md
@@ -42,11 +43,11 @@ https://user-images.githubusercontent.com/82068739/115130742-66172300-9fc8-11eb-
 
 Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido. Mais informações sobre edição em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown 
 
-https://user-images.githubusercontent.com/82068739/115131222-c60fc880-9fcc-11eb-9ffb-c5e0d74fc1b1.mp4
+[![Read](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Read")
 
 
 ## 1.3 Deletando um repositório 
-https://user-images.githubusercontent.com/82068739/115130744-6adbd700-9fc8-11eb-99a2-8daf0db9ff26.mp4
+[![Deletando](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Deletando")
 
 
 # `2. Branch`
@@ -57,12 +58,12 @@ Ao criar um repositório, ele irá vir automaticamente com um branch chamado de 
 
 ## 2.1 Criando um branch
 
-https://user-images.githubusercontent.com/82068739/115144831-2b8fa380-a025-11eb-9284-c3f9b19d664d.mp4
+[![Criando um Branch](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando um Branch")
 
 
 ## 2.2 Deletando um branch
 
-https://user-images.githubusercontent.com/82068739/115145259-08fe8a00-a027-11eb-8744-91fc16838e60.mp4
+[![Deletando um Branch](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Deletando um Branch")
 
 # `3. Commits`
 
@@ -70,37 +71,39 @@ Commits são alterações no código.
 Sempre que você quiser salvar as alterações realizadas no repositório, é necessário commitar estas alterações. 
 indica-se fazer uma breve descrição da alteração realizada. 
 
-https://user-images.githubusercontent.com/82068739/115145623-dbb2db80-a028-11eb-9486-c40ccd1c6bbb.mp4
+[![Commits](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Commits")
 
 
 ## 3.1 Histórico de commits
 
 É possível analisar todo os histórico de alterações, comentá-las e sugerir mudanças.
-
-https://user-images.githubusercontent.com/82068739/115146170-c25f5e80-a02b-11eb-8162-0c95daf80d81.mp4
+[![Historico Commits](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Historico Commits")
 
 
 # `4. Pull Request`
 
 O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
 
-https://user-images.githubusercontent.com/82068739/115153596-3a8a4c00-a04d-11eb-9c1b-81b0fd3c4e7e.mp4
+
+[![Pull Request](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Pull Request")
 
 
 # `5. Merge`
 
 Com essa função é possível introduzir branches ao projeto principal. 
 
-https://user-images.githubusercontent.com/82068739/115154246-3ad81680-a050-11eb-9692-713642e719b3.mp4
+[![Merge](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Merge")
+
 
 
 # `6. Como criar um site no Github`
 
 O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
-Para criar uma página é necessário apenas entra na página do Github (https://github.com/) e criar um nome de usuário, email e senha. 
 
 
-https://user-images.githubusercontent.com/82068739/115154561-d918ac00-a051-11eb-9977-07cd7d9a9353.mp4
+[![Criando Pages](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando Pages")
+
+
 
 
 
@@ -124,3 +127,4 @@ Referências/dicionário: https://git-scm.com/docs
 P.S.: Para gravar a tela do computador, usamos o Screencastify.
 
 (1) [https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/]
+
