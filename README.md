@@ -85,7 +85,7 @@ indica-se fazer uma breve descrição da alteração realizada.
 
 # `4. Pull Request`
 
-O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça uma alteração.
+O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode solicitar ao dono do projeto para que ele faça uma alteração.
 
 
 [![Pull Request](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Pull Request")
@@ -114,9 +114,9 @@ O Github permite hospedar site estáticos.
 
 # Interessantes
 
-(https://www.youtube.com/watch?v=ZDo_f3ZibFA)
+[![O QUE É GITHUB? - VOCÊ DEVERIA APRENDER GIT ONTEM - 064](http://img.youtube.com/vi/ZDo_f3ZibFA/0.jpg)](http://www.youtube.com/watch?v=ZDo_f3ZibFA "O QUE É GITHUB? - VOCÊ DEVERIA APRENDER GIT ONTEM - 064")
 
-(https://www.youtube.com/watch?v=UbJLOn1PAKw)
+[![GitHub | Guia Completo do Iniciante](http://img.youtube.com/vi/UbJLOn1PAKw/0.jpg)](http://www.youtube.com/watch?v=UbJLOn1PAKw "GitHub | Guia Completo do Iniciante")
 
 Nosso objetivo é trazer alguns conceitos básicos, para conhecer mais a plataforma, acesse:
 
