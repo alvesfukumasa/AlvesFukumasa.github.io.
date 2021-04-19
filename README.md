@@ -95,9 +95,8 @@ O Pull Request é um pedido de melhoria para ser incorporado no repositório pri
 
 Com essa função é possível introduzir branches ao projeto principal. 
 
-[![Merge](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Merge")
 
-
+[![](http://img.youtube.com/vi/-_KvavPI66w/0.jpg)](http://www.youtube.com/watch?v=-_KvavPI66w "Função merge")
 
 # `6. Como criar um site no Github`
 
