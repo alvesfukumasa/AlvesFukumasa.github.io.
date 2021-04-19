@@ -104,8 +104,9 @@ Com essa função é possível introduzir branches ao projeto principal.
 O Github permite hospedar site estáticos. 
 É possível criar um site a partir de um repositório.
 
+[![](http://img.youtube.com/vi/yX4Pvo5oQJg/0.jpg)](http://www.youtube.com/watch?v=yX4Pvo5oQJg "Criando uma pagina")
 
-[![Criando Pages](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando Pages")
+
 
 
 
