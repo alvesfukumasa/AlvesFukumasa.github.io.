@@ -19,9 +19,9 @@ GitHub é uma plataforma de compartilhamento de códigos com controle de versão
 1. Funciona na nuvem - Tendo internet, pode ser acessado de qualquer lugar do mundo;
 2. Controle de versão - Armazena todo histórico de alterações realizadas;
 3. Trabalho em equipe - Acesso simultâneo;
-4. Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
+4. Envolvimento com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
 5. Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
-Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
+6. Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
 
 
 # `0. Crie uma conta`
@@ -42,9 +42,9 @@ Um repositório serve para organizar um projeto. Ali encontram-se todas as infor
 
 ## 1.2 README.md
 
-É recomendável incluir o arquivo README.md na criação do repositório. Ali deve conter a descrição detalhada sobre o projeto.
+É recomendável incluir o arquivo README.md na criação do repositório. Ali deve conter uma descrição detalhada sobre o projeto.
 
-Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido. Mais informações sobre edição em: https://support.zendesk.com/hc/pt-br/articles/203691016-Formata%C3%A7%C3%A3o-de-texto-com-Markdown 
+Obs: A extensão **.md** se chama linguagem de marcação Markdown, que converte texto para um HTML válido.
 
 [![Read](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Read")
 
@@ -85,7 +85,7 @@ indica-se fazer uma breve descrição da alteração realizada.
 
 # `4. Pull Request`
 
-O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
+O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça uma alteração.
 
 
 [![Pull Request](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Pull Request")
@@ -101,7 +101,8 @@ Com essa função é possível introduzir branches ao projeto principal.
 
 # `6. Como criar um site no Github`
 
-O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
+O Github permite hospedar site estáticos. 
+É possível criar um site a partir de um repositório.
 
 
 [![Criando Pages](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando Pages")
