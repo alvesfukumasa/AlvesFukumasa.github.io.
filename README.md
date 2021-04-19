@@ -18,7 +18,7 @@ GitHub é uma plataforma de compartilhamento de códigos com controle de versão
 3. Trabalho em equipe - Acesso simultâneo;
 4. Se envolve com a comunidade open source [código aberto. Ex: LibreOffice, Python] - Visibilidade;
 5. Melhorias no código - Outros profissionais de programação podem sugerir melhorias;
-Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
+6. Ser notado (Currículo vivo) - Muitas empresas analisam o perfil no Github (Saber fazer).
 
 
 # `0. Crie uma conta`
@@ -82,8 +82,7 @@ indica-se fazer uma breve descrição da alteração realizada.
 
 # `4. Pull Request`
 
-O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode pedir ao dono do projeto para que ele faça a alteração que você deseja. 
-
+O Pull Request é um pedido de melhoria para ser incorporado no repositório principal, ou seja, você pode solicitar ao dono do projeto para que ele faça uma a alteração.
 
 [![Pull Request](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Pull Request")
 
@@ -98,7 +97,8 @@ Com essa função é possível introduzir branches ao projeto principal.
 
 # `6. Como criar um site no Github`
 
-O Github permite hospedar site estáticos. É possível criar um site a partir de um repositório.
+O Github permite hospedar site estáticos. 
+É possível criar um site a partir de um repositório.
 
 
 [![Criando Pages](http://img.youtube.com/vi/u4TE-pJXZMI/0.jpg)](http://www.youtube.com/watch?v=u4TE-pJXZMI "Criando Pages")
@@ -110,9 +110,9 @@ O Github permite hospedar site estáticos. É possível criar um site a partir d
 
 # Interessantes
 
-(https://www.youtube.com/watch?v=ZDo_f3ZibFA)
+[![O QUE É GITHUB? - VOCÊ DEVERIA APRENDER GIT ONTEM - 064](http://img.youtube.com/vi/ZDo_f3ZibFA/0.jpg)](http://www.youtube.com/watch?v=ZDo_f3ZibFA "O QUE É GITHUB? - VOCÊ DEVERIA APRENDER GIT ONTEM - 064")
 
-(https://www.youtube.com/watch?v=UbJLOn1PAKw)
+[![GitHub | Guia Completo do Iniciante](http://img.youtube.com/vi/UbJLOn1PAKw/0.jpg)](http://www.youtube.com/watch?v=UbJLOn1PAKw "GitHub | Guia Completo do Iniciante")
 
 Nosso objetivo é trazer alguns conceitos básicos, para conhecer mais a plataforma, acesse:
 
@@ -126,5 +126,5 @@ Referências/dicionário: https://git-scm.com/docs
 
 P.S.: Para gravar a tela do computador, usamos o Screencastify.
 
-(1) [https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/]
+Referência: (1) [https://tecnoblog.net/400821/como-usar-o-github-guia-para-iniciantes/]
 
